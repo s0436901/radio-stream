@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EEF65C04-3A16-4E92-A47A-428951777F73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>april 9</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B27B1205-3C6F-4BAA-B96B-C179958A3018</key>
+		<string>https://github.com/tobondiego/radio-stream.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>april 9.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B27B1205-3C6F-4BAA-B96B-C179958A3018</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tobondiego/radio-stream.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B27B1205-3C6F-4BAA-B96B-C179958A3018</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B27B1205-3C6F-4BAA-B96B-C179958A3018</string>
+			<key>IDESourceControlWCCName</key>
+			<string>radio-stream</string>
+		</dict>
+	</array>
+</dict>
+</plist>
